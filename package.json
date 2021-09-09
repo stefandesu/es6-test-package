@@ -1,0 +1,15 @@
+{
+  "name": "es6-test-package",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Just testing package stuff",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "author": "Stefan Peters",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.4"
+  }
+}
