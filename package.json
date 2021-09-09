@@ -4,6 +4,9 @@
   "type": "module",
   "description": "Just testing package stuff",
   "main": "lib/index.js",
+  "files": [
+    "lib/"
+  ],
   "scripts": {
     "test": "node test/index.js"
   },
