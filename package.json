@@ -1,6 +1,6 @@
 {
   "name": "es6-test-package",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "module",
   "description": "Just testing package stuff",
   "main": "lib/index.js",
