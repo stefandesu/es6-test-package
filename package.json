@@ -6,6 +6,8 @@
   "main": "dist/cjs/index.cjs",
   "module": "dist/esm/index.js",
   "jsdelivr": "dist/es6-test-package.js",
+  "unpkg": "dist/es6-test-package.js",
+  "sideEffects": false,
   "files": [
     "dist/"
   ],
