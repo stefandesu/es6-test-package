@@ -1,4 +1,4 @@
-import { add, multiply, fetch } from "../lib/index.js"
+import { add, multiply, fetch } from "../src/index.js.js"
 
 
 (async () => {
